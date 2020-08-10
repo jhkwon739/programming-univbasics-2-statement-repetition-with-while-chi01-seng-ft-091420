@@ -1,6 +1,6 @@
 # Write your code here
 
-//start countdown from 10
+#start countdown from 10
 count = 10
 
 while count > 0 do 
